@@ -61,4 +61,3 @@ resources/views/
 ---
 
 ⭐ ¡Si te gustó este proyecto, dale una estrella!
-```
