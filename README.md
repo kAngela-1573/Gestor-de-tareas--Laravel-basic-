@@ -62,22 +62,3 @@ resources/views/
 
 ⭐ ¡Si te gustó este proyecto, dale una estrella!
 ```
-
----
-
-## ✅ Pasos rápidos para usarlo:
-
-1. **Crea el archivo** `README.md` dentro de la carpeta `gestor-tareas`
-2. **Abre el archivo** con el bloc de notas o cualquier editor
-3. **Copia TODO el código** de arriba y pégalo
-4. **Cambia** `TU-USUARIO` por tu usuario de GitHub (dos veces)
-5. **Cambia** `Tu Nombre` por tu nombre
-6. **Guarda el archivo**
-
-## 📤 Subirlo a GitHub:
-
-```bash
-git add README.md
-git commit -m "Agregar README"
-git push origin main
-```
